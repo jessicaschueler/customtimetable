@@ -1,5 +1,7 @@
 [project]
 name = "customtimetable"
+dynamic = ["version"]
+license = "MIT"
 dependencies = [
     "apache-airflow",
     "flask"
