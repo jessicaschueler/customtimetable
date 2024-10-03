@@ -1,0 +1,13 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "customtimetable"
+dependencies = [
+    "apache-airflow",
+    "flask"
+]
+
+[project.entry-points."airflow.plugins"]
+my_plugin = "my_package.my_plugin:MyAirflowPlugin"
