@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: customtimetable
+Version: 0.0.0
+Requires-Dist: apache-airflow
+Requires-Dist: flask

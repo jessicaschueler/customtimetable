@@ -1,0 +1,2 @@
+[airflow.plugins]
+my_plugin = my_package.my_plugin:MyAirflowPlugin

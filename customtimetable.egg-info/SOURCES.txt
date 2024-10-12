@@ -1,0 +1,8 @@
+customtimetable.py
+pyproject.toml
+customtimetable.egg-info/PKG-INFO
+customtimetable.egg-info/SOURCES.txt
+customtimetable.egg-info/dependency_links.txt
+customtimetable.egg-info/entry_points.txt
+customtimetable.egg-info/requires.txt
+customtimetable.egg-info/top_level.txt
